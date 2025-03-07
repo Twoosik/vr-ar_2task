@@ -24,5 +24,5 @@ class Fragment3: Fragment() {
             findNavController().navigate(R.id.action_fragment3_to_fragment2)
         }
         return binding.root
-    }//////
+    }
 }
