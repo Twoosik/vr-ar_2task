@@ -1,9 +1,7 @@
-package com.example.task2
+package com.example.task3
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.fragment.app.Fragment
-import com.example.task2.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
