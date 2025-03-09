@@ -23,7 +23,7 @@ class Fragment1 : Fragment() {
         binding.button2.setOnClickListener {
             findNavController().navigate(R.id.action_fragment1_to_fragment3)
         }
-
+/
         return binding.root
     }
 }
