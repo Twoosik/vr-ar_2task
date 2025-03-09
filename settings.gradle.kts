@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "task3"
+rootProject.name = "vr-ar_2task"
 include(":app")
