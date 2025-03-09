@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.task3"
+    namespace = "com.example.task2"
     compileSdk = 35
 
     buildFeatures {
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.task3"
+        applicationId = "com.example.task2"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
